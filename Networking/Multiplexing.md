@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Multiplexing
+- multiplexing is where multiple analog or digital signals are combined into one signal over a shared medium
+		- has been around since the late 1800s with telegraphy

@@ -1,0 +1,14 @@
+
+- A system administrator is recovering a system from backups, and has a total of four backup sets for the restoration. Which of the following backup types is most likely in use?
+	- ==Incremental==
+		- a full backup is taken first
+		- subsequent backups contain data changed since the last full backup and the last incremental backup
+			- you are less likely to be copying over the same shit you just backed up and can manage changes in data better
+		- usually smaller than full backups
+		- a restoration requires the full backup and all of the incremental backups 
+	- Image
+	- Synthetic
+	- Cloud
+	- Differential
+- ![[Pasted image 20250927184328.png]]
+- 

@@ -1,0 +1,9 @@
+- Identify the default gateway assigned to your computer
+	- ipconfig
+		- look through the output to find the default gateway address
+			- if you are on wireless, it will be the IPv4 setting under the Wireless LAN adapter
+- Determine the default gateway's next hop to an IP address
+	- tracert "9.9.9.9"
+- Ping the default gateway's next hop IP address
+	- use the tracert to get your default gateway address next hop, then ping that
+	- ping [next hop address]
