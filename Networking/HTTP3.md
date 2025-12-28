@@ -1,0 +1,2 @@
+- third version of the HTTP protocol
+- previous versions relied on TCP while HTTP3 relies on QUIC 9

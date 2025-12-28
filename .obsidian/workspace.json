@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "cf582f5b3c5bf0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0219f273f4746aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db04a36461a92036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/401k/401k Early Withdrawal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "401k Early Withdrawal"
+            }
+          },
+          {
+            "id": "7ecffd7168dec307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Origin Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Origin Server"
+            }
+          },
+          {
+            "id": "87b78f4291ca0e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/401k/SEPP Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SEPP Plan"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8b5d48d8467cf3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfdf783f90fa3e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247c62e019f7d786",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a15a584186c663a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36af7633094c9760",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "55b666f84f0bd44c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a021b5e8983a1f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b1a16f84886bb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microsoft Notes/MS Office/MS Outlook/Difference between .msg and .eml file format.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Difference between .msg and .eml file format"
+            }
+          },
+          {
+            "id": "c12c5b2b3011cfa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Microsoft Notes/MS Office/MS Outlook/Difference between .msg and .eml file format.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Difference between .msg and .eml file format"
+            }
+          },
+          {
+            "id": "171f7449b229bd97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "123bffbe3dd7162e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A+ 220-2201-2202 study/Module 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 2"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "7ecffd7168dec307",
+  "lastOpenFiles": [
+    "Finance/401k/401k Early Withdrawal.md",
+    "Finance/401k/401k Withdrawals.md",
+    "Finance/401k/Accessing your 401k after leaving a job.md",
+    "Networking/TLS.md",
+    "Pasted image 20251221102505.png",
+    "Finance/401k/SEPP Plan.md",
+    "Finance/Untitled.md",
+    "Laptops/Lenovo/ThinkShield Secure Wipe.md",
+    "Networking/Origin Server.md",
+    "Guns/Ammunition/Pistol rounds/The .45 caliber.md",
+    "Guns/Pistols/Glock 21 .45.md",
+    "Guns/Ammunition/Pistol rounds",
+    "Guns/Ammunition",
+    "A+ 220-2201-2202 study/Lesson 6D - Network Configuration Concepts.md",
+    "Guns/Pistols",
+    "Pasted image 20251220152237.png",
+    "Networking/QUIC network protocol.md",
+    "Electricity General/Home electricity/Home Wiring.md",
+    "A+ 220-2201-2202 study/Lesson 6C - Network Communications.md",
+    "Pasted image 20251214112835.png",
+    "Pasted image 20251214103605.png",
+    "Laptops/Lenovo/Lenovo Absolute Persistence.md",
+    "Laptops/Lenovo",
+    "Guns",
+    "Laptops",
+    "Pasted image 20251208185433.png",
+    "A+ 220-2201-2202 study/Lesson 6B - TCP-IP concepts.md",
+    "Pasted image 20251207152748.png",
+    "Finance/401k/401k Loan.md",
+    "Finance/Credit/Credit Scores.md",
+    "Finance/Terms.md",
+    "Finance/IRAs/Roth IRA/Traditional Roth IRA.md",
+    "Finance/401k/Roth 401k.md",
+    "Electricity General/Home electricity/Space Heaters.md",
+    "Pasted image 20251201221646.png",
+    "Finance/IRAs/Roth IRA/Rolling funds over into an IRA.md",
+    "Finance/401k/401k Vesting.md",
+    "Finance/401k/Taxes on a 401k.md",
+    "Finance/IRAs/Roth IRA/Roth Emergency Savings Account.md",
+    "Finance/IRAs/Roth IRA",
+    "Untitled 5.base",
+    "Untitled 1.base",
+    "Finance/Life Insurance",
+    "Pasted images/Pasted image 20250927184328.png",
+    "Pasted images/Pasted image 20251005182524.png",
+    "Pasted images/Pasted image 20251005184835.png"
+  ]
+}
