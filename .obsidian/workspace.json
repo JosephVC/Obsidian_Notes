@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laptops/Lenovo/Lenovo Absolute Persistence.md",
+                "file": "Finance/Stocks/Foreign Stocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lenovo Absolute Persistence"
+              "title": "Foreign Stocks"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,53 +214,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "21844a332a100801",
+  "active": "db04a36461a92036",
   "lastOpenFiles": [
-    "Laptops/Lenovo/ThinkShield Secure Wipe.md",
-    "Laptops/Lenovo/Lenovo Absolute Persistence.md",
+    "Pasted image 20260103145053.png",
+    "Pasted image 20260103143907.png",
+    "A+ 220-2201-2202 study/Lesson 6B - TCP-IP concepts.md",
+    "A+ 220-2201-2202 study/Lesson 5C - Network Cable Types.md",
+    "A+ 220-2201-2202 study/Lesson 5A - Network Types.md",
+    "A+ 220-2201-2202 study/Lesson 4A - BIOS and UEFI.md",
+    "A+ 220-2201-2202 study/Lesson 3B - Storage Devices.md",
+    "A+ 220-2201-2202 study/Lesson 2B - Motherboards.md",
+    "A+ 220-2201-2202 study/Lesson 2A - Cables and Connectors.md",
     "A+ 220-2201-2202 study/Lesson 6C - Network Communications.md",
+    "Finance/Stocks/Foreign Stocks.md",
+    "Finance/Stocks/Funds and EFTs/Index Fund vs. EFT.md",
+    "Finance/Stocks/Funds and EFTs",
+    "Finance/Retirement/Untitled.md",
+    "Finance/Retirement",
+    "Pasted image 20251230055107.png",
+    "Laptops/Lenovo/Memory Paging.md",
+    "Finance/General Terms.md",
+    "Pasted image 20251229193039.png",
+    "Finance/Untitled.md",
+    "Finance/Stocks",
+    "Finance/Retirement/401k/Forfeiture.md",
+    "Laptops/Lenovo/Lenovo Absolute Persistence.md",
+    "Laptops/Lenovo/ThinkShield Secure Wipe.md",
     "Laptops/Lenovo",
     "Untitled",
     "Laptops",
     "Pasted image 20251208185433.png",
-    "A+ 220-2201-2202 study/Lesson 6B - TCP-IP concepts.md",
-    "Finance/401k/Accessing your 401k after leaving a job.md",
+    "Finance/Retirement/401k/Accessing your 401k after leaving a job.md",
     "Pasted image 20251207152748.png",
     "Electricity General/Home electricity/Home Wiring.md",
-    "Finance/401k/401k Loan.md",
+    "Finance/Retirement/401k/401k Loan.md",
     "Finance/Credit/Credit Scores.md",
-    "Finance/Terms.md",
     "Finance/IRAs/Roth IRA/Traditional Roth IRA.md",
-    "Finance/401k/Roth 401k.md",
+    "Finance/Retirement/401k/Roth 401k.md",
     "Electricity General/Home electricity/Space Heaters.md",
     "Pasted image 20251201221646.png",
     "Finance/IRAs/Roth IRA/Rolling funds over into an IRA.md",
-    "Finance/401k/401k Vesting.md",
-    "Finance/401k/Taxes on a 401k.md",
-    "Finance/IRAs/Roth IRA/Roth Emergency Savings Account.md",
     "Finance/IRAs/Roth IRA",
-    "Finance/IRAs/Untitled.md",
-    "Finance/401k/401k Withdrawals.md",
     "Untitled 5.base",
     "Untitled 1.base",
-    "2025-11-30.md",
-    "Evernote/Digital Audio Notes/A Digital Media Primer for Geeks.md",
-    "Finance/Taxes/Pretax vs After Tax Money.md",
     "Finance/Life Insurance",
-    "Finance/Taxes",
-    "Networking/QUIC network protocol.md",
-    "Computer security/Checksums/Verify a checksum.md",
-    "Microsoft Notes/MS Office/Microsoft Add ins.md",
-    "Untitled.base",
-    "Untitled 1.md",
-    "Untitled 2.base",
-    "Understanding PDFs.md",
     "Pasted images/Pasted image 20250927184328.png",
     "Pasted images/Pasted image 20251005182524.png",
     "Pasted images/Pasted image 20251005184835.png",
-    "Pasted images/Pasted image 20251123103407.png",
-    "Pasted images/Pasted image 20251122222827.png",
-    "Pasted images/Pasted image 20251122222306.png",
-    "Pasted images/Pasted image 20251122154926.png"
+    "Pasted images/Pasted image 20251123103407.png"
   ]
 }

@@ -5,6 +5,6 @@ https://www.investopedia.com/terms/g/graded-vesting.asp
 
 - 
 - ***Amortization*** - pay on a fixed repayment schedule in regular installments
-- ***Fully Vested***
-- ***Cliff Vesting***
-- 
+- ***Vesting***
+	- ![[Pasted image 20251229193039.png]]
+	- 
