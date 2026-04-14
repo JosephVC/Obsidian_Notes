@@ -10,7 +10,7 @@ The above process can be exploited by attackers via an **ICMP flood attack** or 
 
 * **ICMP flood**
 	* this is where an attacker tries to overwhelm a target with ICMP echo-request packets.  The works because the target has to expend resources processing each request and responding to them
-		* ![[./_resources/ICMP_(Internet_Control_Message_Protocol).resources/unknown_filename.1.png]]
+		* ![[Networking/_resources/ICMP_(Internet_Control_Message_Protocol).resources/unknown_filename.1.png]]
 	* **Ping of death**
 		* an attacker sends a ping which is larger than the target machine's max allowable packet size, causing the target machine to crash
 		* the packet gets fragmented on its way to the target, which then tries to reassemble to its original (excessive) size and the reassembled packet causes a buffer overflow
@@ -23,4 +23,4 @@ The above process can be exploited by attackers via an **ICMP flood attack** or 
 
 **ICMP Reply**
 
-![[./_resources/ICMP_(Internet_Control_Message_Protocol).resources/unknown_filename.png]]
+![[Networking/_resources/ICMP_(Internet_Control_Message_Protocol).resources/unknown_filename.png]]

@@ -27,26 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A+ 220-2201-2202 study/Lesson 6C - Network Communications.md",
+                "file": "Networking/Networking general.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 6C - Network Communications"
+              "title": "Networking general"
             }
           },
           {
-            "id": "21844a332a100801",
+            "id": "f9f4b625fe1b9617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Stocks/Foreign Stocks.md",
+                "file": "Finance/IRAs/Rollover IRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foreign Stocks"
+              "title": "Rollover IRA"
+            }
+          },
+          {
+            "id": "5b65d93c6526bd66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guns/AR-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AR-15"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wires",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 266.5
   },
   "right": {
     "id": "55b666f84f0bd44c",
@@ -214,53 +228,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "db04a36461a92036",
+  "active": "f9f4b625fe1b9617",
   "lastOpenFiles": [
-    "Pasted image 20260103145053.png",
-    "Pasted image 20260103143907.png",
-    "A+ 220-2201-2202 study/Lesson 6B - TCP-IP concepts.md",
-    "A+ 220-2201-2202 study/Lesson 5C - Network Cable Types.md",
-    "A+ 220-2201-2202 study/Lesson 5A - Network Types.md",
-    "A+ 220-2201-2202 study/Lesson 4A - BIOS and UEFI.md",
-    "A+ 220-2201-2202 study/Lesson 3B - Storage Devices.md",
-    "A+ 220-2201-2202 study/Lesson 2B - Motherboards.md",
-    "A+ 220-2201-2202 study/Lesson 2A - Cables and Connectors.md",
-    "A+ 220-2201-2202 study/Lesson 6C - Network Communications.md",
-    "Finance/Stocks/Foreign Stocks.md",
-    "Finance/Stocks/Funds and EFTs/Index Fund vs. EFT.md",
-    "Finance/Stocks/Funds and EFTs",
-    "Finance/Retirement/Untitled.md",
-    "Finance/Retirement",
-    "Pasted image 20251230055107.png",
-    "Laptops/Lenovo/Memory Paging.md",
-    "Finance/General Terms.md",
-    "Pasted image 20251229193039.png",
-    "Finance/Untitled.md",
-    "Finance/Stocks",
-    "Finance/Retirement/401k/Forfeiture.md",
-    "Laptops/Lenovo/Lenovo Absolute Persistence.md",
-    "Laptops/Lenovo/ThinkShield Secure Wipe.md",
-    "Laptops/Lenovo",
-    "Untitled",
-    "Laptops",
-    "Pasted image 20251208185433.png",
-    "Finance/Retirement/401k/Accessing your 401k after leaving a job.md",
-    "Pasted image 20251207152748.png",
-    "Electricity General/Home electricity/Home Wiring.md",
-    "Finance/Retirement/401k/401k Loan.md",
-    "Finance/Credit/Credit Scores.md",
-    "Finance/IRAs/Roth IRA/Traditional Roth IRA.md",
-    "Finance/Retirement/401k/Roth 401k.md",
-    "Electricity General/Home electricity/Space Heaters.md",
-    "Pasted image 20251201221646.png",
     "Finance/IRAs/Roth IRA/Rolling funds over into an IRA.md",
-    "Finance/IRAs/Roth IRA",
-    "Untitled 5.base",
-    "Untitled 1.base",
-    "Finance/Life Insurance",
-    "Pasted images/Pasted image 20250927184328.png",
-    "Pasted images/Pasted image 20251005182524.png",
-    "Pasted images/Pasted image 20251005184835.png",
-    "Pasted images/Pasted image 20251123103407.png"
+    "Finance/IRAs/Rollover IRA.md",
+    "Finance/Retirement/401k/401k Loan.md",
+    "Finance/IRAs/Roth IRA/Traditional Roth IRA.md",
+    "Finance/IRAs/Roth IRA/Roth Emergency Savings Account.md",
+    "Networking/Wireshark/Wireshark filters explains.md",
+    "Networking/QUIC network protocol.md",
+    "Pasted image 20260222094052.png",
+    "Pasted image 20260222091554.png",
+    "Networking/Cellular/VoIP.md",
+    "Networking/Cellular/SIM cards.md",
+    "Pasted image 20260216083349.png",
+    "Pasted image 20260216080058.png",
+    "Networking/Cellular",
+    "Screenshot from 2026-02-15 13-52-13.png",
+    "Networking/Browser Tracking.md",
+    "Networking/Asynchrony.md",
+    "Networking/Wireshark",
+    "Networking/Windows networking commands.md",
+    "Networking/Single Page Applications (SPAs).md",
+    "Networking/Domain Structure.md",
+    "Networking/Fiber optics.md",
+    "Networking/Networking general.md",
+    "Finance/Housing/Owner tracking.md",
+    "Electricity General/Home electricity/Lighting",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Windows.md",
+    "Finance/Housing",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Windows Projected File System.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Windows Sandbox.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Windows Subsystem for Linux.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Windows Tiff iFilter.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Work Folders Client.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/Telnet Client.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/SMB Direct.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu/SMB 1.0-CIFS File Sharing Support.md",
+    "Microsoft Notes/MS Windows 11/Windows Features Menu",
+    "Microsoft Notes/MS Windows 11",
+    "Pasted image 20260125092445.png",
+    "Pasted image 20260125092349.png",
+    "Pasted image 20260125092334.png",
+    "Pasted image 20260125092039.png",
+    "Pasted image 20260125090951.png",
+    "Guns",
+    "Finance/SWIFT",
+    "Networking general",
+    "Finance/Stocks/Funds and EFTs"
   ]
 }

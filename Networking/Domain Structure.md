@@ -1,10 +1,10 @@
 ---
 ---
-**Domain Structure**
+
 
 There are likely to be subdomains to the domain structure of large organization:
 
-![[./_resources/Untitled_Note.resources/unknown_filename.png]]
+![[Networking/_resources/Untitled_Note.resources/unknown_filename.png]]
 
 We can gather information on what sort of background API requests are being made using tools such as Burp, PortSwigger, or ZAP.  Browsers themselves come shipped with basic network analysis tools.  
 
