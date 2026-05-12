@@ -7,4 +7,6 @@ https://www.glocktalk.com/threads/what-are-you-doing-for-mags-that-dont-drop-fre
 https://www.ar15.com/forums/handguns/G21_mags_wonandapos_t_drop_free/13-59259/
 
 
-random change
+
+
+random change 2
