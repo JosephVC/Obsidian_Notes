@@ -1,6 +1,6 @@
 ---
 ---
-**General github notes**
+
 
 if you have to re-clone a repo, you will have to re-connect it with github to make sure github sees it - same if you are connecting to heroku
 
@@ -12,3 +12,13 @@ if you are within a poetry shell and do a git comm/git push, it won't show up in
 2. do a pull request
 3. check your branches against the main branch to see if anything needs merging
 4. the reason the new commit didn't automatically show up at the top of the repo's main page is likely due to some conflict
+
+
+***Terminology***
+- main: the local branch
+- origin/main: the remote tracking branch 
+	- the **local copy** of the main branch on a remote named 'main'
+
+
+
+

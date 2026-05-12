@@ -1,0 +1,1 @@
+new Rugers start around $600 - 800 for the **tactical** version
