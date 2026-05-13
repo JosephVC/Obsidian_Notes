@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guns/Magazine in Glock 21 not dropping freely.md",
+                "file": "Finance/Credit/Bankruptcy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magazine in Glock 21 not dropping freely"
+              "title": "Bankruptcy"
             }
           }
         ]
@@ -173,8 +173,12 @@
   },
   "active": "f9f4b625fe1b9617",
   "lastOpenFiles": [
-    "Guns/Glock 21.md",
+    "Finance/Credit/Debt Consolidation.md",
+    "Finance/Credit/Bankruptcy.md",
+    "Finance/Credit/Debt.md",
+    "GitHub notes/Setting up access token as passwords don't work anymore.md",
     "Guns/Magazine in Glock 21 not dropping freely.md",
+    "Guns/Glock 21.md",
     "Guns/AR-15.md",
     "Guns/22 caliber.md",
     "Guns/Hammer or Striker fired.md",
@@ -206,11 +210,7 @@
     "Networking/Cellular/SIM cards.md",
     "Networking/Cellular",
     "Networking/Browser Tracking.md",
-    "Networking/Asynchrony.md",
     "Networking/Wireshark",
-    "Networking/Windows networking commands.md",
-    "Networking/Single Page Applications (SPAs).md",
-    "Networking/Domain Structure.md",
     "Electricity General/Home electricity/Lighting",
     "Finance/Housing",
     "Microsoft Notes/MS Windows 11/Windows Features Menu",
