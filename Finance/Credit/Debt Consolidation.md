@@ -12,6 +12,10 @@ https://www.debt.org/consolidation/companies/national-debt-relief/
 
 https://sadeklaw.com/2024/10/14/national-debt-relief-pros-and-cons/
 
+https://www.debt.org/settlement/diy-debt-settlement/
+
+https://www.debt.org/management-plans/best-companies-review/
+
 
 **Basics of How it Works**
 - the given debt consolidation company will negotiate with a creditor on your behalf to get them to accept less than the amount you owe
@@ -34,6 +38,7 @@ https://sadeklaw.com/2024/10/14/national-debt-relief-pros-and-cons/
 - interest and fees continue to accumulate
 - Debt collectors and creditors will still bother you
 - Debt that is forgiven may be considered taxable
+- creditors are not obligated to enter in to any agreement
 
 
 **Alternatives**
@@ -41,3 +46,16 @@ https://sadeklaw.com/2024/10/14/national-debt-relief-pros-and-cons/
 - consolidation loan
 - other companies run a **debt management plan**
 - Bankruptcy 
+- DIY debt relief
+	- negotiate directly with creditors to pay less than the full amount owed
+		-  Step 1: Assess Your Current Financial Situation
+		- Step 2: Figure Out Who Your Creditors Are and Learn Your Rights
+		- Step 3: Talk to Your Creditors and Set Your Terms
+		- Step 4: Make an Agreement & Pay off Debt
+
+
+**Debt Settlement**
+- settlement will usually require at least 90 days of delinquency 
+	- after 120 or 180 days of delinquency debt may be sold to a 3rd party collector
+- not an option for secured debts
+

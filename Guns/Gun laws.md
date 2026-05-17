@@ -2,6 +2,10 @@
 **WA State**
 - https://protectwithbear.com/blog/washington-gun-laws
 - https://www.atg.wa.gov/firearms
+- https://app.leg.wa.gov/rcw/default.aspx?cite=9A.16&full=true
+- https://knausslawfirm.com/blogs/washington-state-self-defense-laws-protecting-your-rights-after-an-incident
+
+
 	- assault weapons are banned
 		- It includes many semi-automatic rifles (like AR-15s) based on features like threaded barrels, folding stocks, or even just being on a specific list of named models. 
 	- cpl reciprocity with 10 states
@@ -37,4 +41,5 @@
 		-     Safe Passage (18 U.S.C. § 926A): You can travel through Washington with a firearm if it is unloaded and locked in a container (trunk), provided you are legal at your start and end points.
 		- Flying: Must follow TSA Baseline: Unloaded, locked hard-sided case, declared at the ticket counter. 
 		- National Parks: Allowed in National Parks per state laws, but prohibited inside federal buildings (Visitor Centers).
+
 

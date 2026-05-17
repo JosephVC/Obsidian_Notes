@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Credit/Bankruptcy.md",
+                "file": "Guns/Gun laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bankruptcy"
+              "title": "Gun laws"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "f9f4b625fe1b9617",
   "lastOpenFiles": [
-    "Finance/Credit/Debt Consolidation.md",
     "Finance/Credit/Bankruptcy.md",
+    "Finance/Credit/Debt Consolidation.md",
     "Finance/Credit/Debt.md",
+    "Finance/Credit/Credit Scores.md",
     "GitHub notes/Setting up access token as passwords don't work anymore.md",
     "Guns/Magazine in Glock 21 not dropping freely.md",
     "Guns/Glock 21.md",
@@ -209,7 +210,6 @@
     "Networking/Cellular/VoIP.md",
     "Networking/Cellular/SIM cards.md",
     "Networking/Cellular",
-    "Networking/Browser Tracking.md",
     "Networking/Wireshark",
     "Electricity General/Home electricity/Lighting",
     "Finance/Housing",
