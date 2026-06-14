@@ -8,3 +8,23 @@ https://www.coingecko.com/learn/what-is-a-shitcoin
 
 
 - overwhelmingly pump and dump schemes
+
+
+- "Asian Arrangement" - rectangle of investment 
+	- crypto investors
+        ^ |
+        | |
+        | v
+    +----------+                provides liquidity          +--------+
+    |  Crypto  |  <---------------------------------------  | Market |
+    | Exchange |  ----------------------------------------> | Maker  |
+    +----------+                   maker fees               +--------+
+        ^ |                                                    ^     
+  fees, | | listing                                    options |     
+tokens | |                                            / fees  |      
+        | |  +-------------------------------------------------+
+        | v  |                                                        
+    +---------+       tokens / SAFT / token warrants       +---------+
+    |  Token  |  --------------------------------------->  | Venture |
+    | Project |  <---------------------------------------  | Capital |
+    +---------+     cash , intros to CEX / MM, shilling    +---------+
