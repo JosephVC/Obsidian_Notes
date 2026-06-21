@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/General TCP-IP knowledge.md",
+                "file": "Computer Science/Marshalling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General TCP-IP knowledge"
+              "title": "Marshalling"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 271.5
   },
   "right": {
     "id": "55b666f84f0bd44c",
@@ -188,12 +188,22 @@
   },
   "active": "3d8622e768232240",
   "lastOpenFiles": [
+    "Networking/General TCP-IP knowledge.md",
+    "Computer Science/Marshalling.md",
+    "Computer Science",
+    "Microsoft Notes/MS Windows 11/Windows API.md",
+    "ServiceNow",
+    "Pasted image 20260620172633.png",
+    "Microsoft Notes/MS Windows 11/MS Foundation Class Library.md",
+    "Microsoft Notes/MS Windows 11/ActiveX.md",
+    "Microsoft Notes/MS Office/MS Compound Document File Format.md",
+    "Microsoft Notes/MS Windows 11/Component Object Model (COM).md",
+    "Microsoft Notes/MS Windows 11/Visual Studio Tools for Office (VSTO).md",
     "Networking/CCNP Intro Notes.md",
     "Finance/Stocks/Common Stock.md",
     "Philosophy/Burroughs-Magick.md",
     "Networking/Misc..md",
     "Finance/Stocks/Meme stocks.md",
-    "Networking/General TCP-IP knowledge.md",
     "Security Notes/phrack/Great Hacker War.md",
     "Finance/Stocks/Funds and EFTs/Terms to understand an EFT.md",
     "Finance/Stocks/Funds and EFTs/Investment Contracts.md",
@@ -210,15 +220,8 @@
     "Networking/Cellular/SMS.md",
     "Networking/Cellular/TOTP.md",
     "Finance/Crypto/SAFT.md",
-    "Finance/Crypto/Memecoins.md",
     "Finance/Fixed Income",
-    "Finance/Fixed Income.md",
     "Finance/Business",
-    "Finance/Crypto/Blockchain.md",
-    "Finance/Crypto/Proof of Stake.md",
-    "Finance/Crypto/Proof of Work.md",
-    "Finance/Crypto/Crypto general.md",
-    "Finance/Crypto/Bitcoin.md",
     "Pasted image 20260524100528.png",
     "Pasted image 20260524100432.png",
     "Finance/Crypto",
@@ -229,10 +232,7 @@
     "Pasted image 20260503104642.png",
     "Pasted image 20260503101439.png",
     "Pasted image 20260503092623.png",
-    "Pasted image 20260503084707.png",
     "Networking/Cellular",
-    "Networking/Wireshark",
-    "Electricity General/Home electricity/Lighting",
-    "Finance/Housing"
+    "Networking/Wireshark"
   ]
 }
