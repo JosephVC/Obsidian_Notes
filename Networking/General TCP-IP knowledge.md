@@ -1,6 +1,10 @@
 
 https://en.wikipedia.org/wiki/IP_address
 
+https://en.wikipedia.org/wiki/Default_gateway
+
+https://itechhacks.com/192-168-1-1-login-admin-password/
+
 
 - What is an IP address?
 	- a number given to identify a device on a network
@@ -11,6 +15,10 @@ https://en.wikipedia.org/wiki/IP_address
 	- usually either a network admin will assign an IP address or the address will be automatically provided via DHCP
 	- 
 -  What is a default gateway?
+	- needed when reaching a computer outside your own network
+	- often a router or multilayer switch is used
+	- for small networks, the default gateway is another device such as the fiber or other sort of router
+		- large offices will have internal network segments
 -  Can students configure an IP address, netmask, default gateway, and DNS servers on Windows, Linux, and/or MacOS?
 -  How familiar are students with configuration files and/or utilities used to retrieve network information on Windows, Linux, and/or MacOS?
 	- 
