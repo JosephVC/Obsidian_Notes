@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Magic/Alan Moore.md",
+                "file": "Finance/Debt/Debt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alan Moore"
+              "title": "Debt"
             }
           },
           {
@@ -27,44 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Resources.md",
+                "file": "Networking/Web Browsers/Understanding trackers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "262336983aa284ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Web Browsers/Browser Tracking-fingerprinting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Browser Tracking-fingerprinting"
-            }
-          },
-          {
-            "id": "7ce4b2b854a41a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/General TCP-IP knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General TCP-IP knowledge"
+              "title": "Understanding trackers"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PDF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.3203125
   },
   "right": {
     "id": "55b666f84f0bd44c",
@@ -214,53 +187,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7ce4b2b854a41a3a",
+  "active": "f9f4b625fe1b9617",
   "lastOpenFiles": [
-    "Networking/OSI vs. TCP-IP model.md",
-    "Linux/Linux general.md",
-    "Security Notes/anti-forensics/anti-forensics general.md",
-    "Networking/General TCP-IP knowledge.md",
+    "Finance/Debt/FICO vs Vantagescore.md",
+    "Finance/Debt/Debt.md",
+    "Finance/Debt",
+    "Understanding PDFs/compressing a pdf.md",
+    "Understanding PDFs/Flattening a PDF.md",
+    "Understanding PDFs/The Structure of a PDF.md",
+    "Philosophy/Magic/Alan Moore.md",
+    "Networking/Web Browsers/Understanding trackers.md",
+    "Pasted image 20260908043959.png",
+    "Networking/Web Browsers/Browser Tracking-fingerprinting.md",
+    "Networking/Cisco/Cisco ISE Posture.md",
+    "Networking/Cisco",
+    "Networking/Resources.md",
+    "Medical/Personal/CIPD.md",
+    "Guns/Gun construction/Basic pistol frame sizes.md",
+    "Medical/Personal",
+    "Medical/First Aid",
+    "Medical",
+    "Housework/Home appliances/Garbage Disposal.md",
+    "Pasted image 20260817055720.png",
+    "Untitled.base",
+    "Untitled.md",
+    "Automotive/RAV4 hybrid engine.md",
+    "README.md",
+    "Guns/gun calibers/357 magnum - .38 special.md",
+    "Guns/Gun construction/Gun barrels.md",
+    "Guns/Gun construction/Types of gun frames.md",
+    "Guns/Gun construction",
+    "Guns/Gun construction.md",
+    "Guns/gun calibers/Basic gun calibers.md",
+    "Guns/gun calibers/30-06 caliber.md",
+    "Pasted image 20260815104245.png",
+    "Pasted image 20260815103208.png",
+    "Pasted image 20260815102614.png",
+    "Guns/AR-15.md",
+    "Guns/gun calibers",
+    "Security Notes/HSM (Hardware Security Module).md",
+    "Computer Science/Kernals/User mode and kernal mode.md",
+    "Pasted image 20260802120938.png",
+    "Security Notes/Buffer overflow.md",
+    "Computer Science/Kernals",
     "Security Notes/anti-forensics",
-    "Networking/Networking tools/_resources/general resources.md",
-    "Linux/Bash shell",
     "Networking/Networking tools/_resources/OSI_Model.resources/unknown_filename.png",
     "Networking/Networking tools/_resources/Internet_Protocol_(IP).resources/unknown_filename.png",
-    "Networking/Web Browsers/Browser Tracking-fingerprinting.md",
-    "Networking/Networking tools/Internet Protocol (IP).md",
-    "Finance/Private companies/Determine company ownership.md",
-    "Finance/Absolute Advantage.md",
-    "Finance/Private companies",
-    "Law/Public records/911 calls.md",
-    "Networking/Networking tools/ifconfig.md",
-    "Law/Public records",
-    "pain is a 5th dimension of reality.md",
-    "Automotive/RAV4 hybrid/RAV4 battery.md",
-    "Networking/Resources.md",
-    "Philosophy/Magic/Alan Moore.md",
-    "Philosophy/Magic/chaos magic.md",
-    "Automotive/Cars - general/Regenerative Breaking.md",
-    "Philosophy/Magic",
-    "RAV4 hybrid engine.md",
-    "Automotive/2012 Audi RS6 Avant",
-    "Automotive/Cars - general",
-    "Automotive/RAV4 hybrid",
-    "Automotive",
-    "Microsoft Notes/MS Windows 11/Active Directory/Active Directory General.md",
-    "Linux/Linux Filesystem.md",
-    "Networking/Web Browsers/Cookies.md",
-    "Housework/Cable management.md",
-    "Philosophy/Anarchism/The Anarchist Moment -- Reflections on Culture, Nature and Power - John Clark.md",
-    "Philosophy/Traditionalism/Neo-Luddites.md",
-    "Philosophy/Anarchism",
-    "Networking/Web Browsers/Why browsers can't download certain images.md",
-    "Microsoft Notes/MS Windows 11/Active Directory/Kerberos.md",
     "Pasted image 20260621121416.png",
-    "Standard-unix-filesystem-hierarchy.svg",
-    "Pasted image 20260621121136.png",
-    "Pasted image 20260620172633.png",
-    "Pasted image 20260614094358.png",
-    "Pasted image 20260524100528.png",
-    "Pasted image 20260524100432.png",
-    "Pasted image 20260523121009.png"
+    "Standard-unix-filesystem-hierarchy.svg"
   ]
 }

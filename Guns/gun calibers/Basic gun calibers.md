@@ -7,8 +7,18 @@ https://www.virtusammo.com/primers-101-how-are-ammunition-primers-are-made/
 
 https://kirammo.com/ammunition-education/
 
+https://en.wikipedia.org/wiki/Wildcat_cartridge
+
+https://en.wikipedia.org/wiki/Point-blank_range
+
+https://ammo.com/articles/wildcat-rounds-wildcatting-customized-cartridges
+
+https://www.sportsmans.com/handgun-caliber-chart
+
 
 - ***Basic Pistol Calibers***
+
+![[Pasted image 20260815103208.png]]
 
 ![[Pasted image 20260125090644.png]]
 
@@ -41,4 +51,14 @@ https://kirammo.com/ammunition-education/
 	- ![[Pasted image 20260125092445.png]]
 - Bullet Grain
 	- weight of the bullet and the gunpowder behind it
-	  
+
+
+- wildcat cartridge
+	- less useful for security forces and more for fucking around
+	- people who have the equipment to make their own rounds will experiment with altering  preexisting rounds or otherwise perform differently 
+		- make the case larger
+			- pack more powder in a given case
+		- fit a different bullet in a certain case
+		- try to improve accuracy or some other characteristic
+	- .22 Eargesplitten Loudenboomer
+		- ![[Pasted image 20260815102614.png]]
