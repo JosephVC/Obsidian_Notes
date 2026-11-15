@@ -15,6 +15,9 @@ https://ammo.com/articles/wildcat-rounds-wildcatting-customized-cartridges
 
 https://www.sportsmans.com/handgun-caliber-chart
 
+- ammo storage
+	- https://protectwithbear.com/blog/best-way-to-store-ammo
+
 
 - ***Basic Pistol Calibers***
 

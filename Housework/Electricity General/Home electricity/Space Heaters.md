@@ -19,3 +19,5 @@ Heavy Duty 25 FT Air Conditioner and Major Appliance Extension Cord UL Listed 14
 
 
 Clear Power 100 ft 12/3 SJTW Heavy Duty Outdoor Extension Cord, Water & Weather Resistant, Flame Retardant, Yellow, 3 Prong Grounded Plug, CP10146 
+
+

@@ -5,7 +5,11 @@
 - https://app.leg.wa.gov/rcw/default.aspx?cite=9A.16&full=true
 - https://knausslawfirm.com/blogs/washington-state-self-defense-laws-protecting-your-rights-after-an-incident
 
-
+	- Gun storage
+		- conceal carry just to have in car?
+		- Needs to be locked up in car with or without license?
+		- loaded?
+		- 
 	- assault weapons are banned
 		- It includes many semi-automatic rifles (like AR-15s) based on features like threaded barrels, folding stocks, or even just being on a specific list of named models. 
 	- cpl reciprocity with 10 states
